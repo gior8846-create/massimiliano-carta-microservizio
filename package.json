@@ -1,0 +1,13 @@
+{
+  "name": "massimiliano-carta-microservizio",
+  "version": "1.0.0",
+  "description": "Microservizio_Massimiliano_Carta",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
+
