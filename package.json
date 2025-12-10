@@ -1,13 +1,14 @@
 {
   "name": "massimiliano-carta-microservizio",
   "version": "1.0.0",
-  "description": "Microservizio_Massimiliano_Carta",
+  "description": "Microservizio pubblico di esempio: Massimiliano_Carta_microservizio",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "uuid": "^9.0.1"
   }
 }
 
