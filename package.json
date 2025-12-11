@@ -1,23 +1,12 @@
 {
   "name": "massimiliano-carta-microservizio",
   "version": "1.0.0",
-  "description": "Massimiliano_Carta_microservizio - microservizio demo su OpenShift",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Massimiliano Carta",
-  "license": "MIT",
   "dependencies": {
-    "express": "^4.22.1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gior8846-create/massimiliano-carta-microservizio.git"
-  },
-  "keywords": [],
-  "bugs": {
-    "url": "https://github.com/gior8846-create/massimiliano-carta-microservizio/issues"
-  },
-  "homepage": "https://github.com/gior8846-create/massimiliano-carta-microservizio#readme"
+    "express": "^4.18.2"
+  }
 }
+
