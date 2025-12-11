@@ -9,7 +9,15 @@
   "author": "Massimiliano Carta",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.19.2"
-  }
+    "express": "^4.22.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gior8846-create/massimiliano-carta-microservizio.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/gior8846-create/massimiliano-carta-microservizio/issues"
+  },
+  "homepage": "https://github.com/gior8846-create/massimiliano-carta-microservizio#readme"
 }
-
