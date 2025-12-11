@@ -14,8 +14,7 @@ app.get('/info', (req, res) => {
     });
 });
 
-app.listen(PORT, '0.0.0.0', () => {
-    console.log(`Server avviato sulla porta ${PORT}`);
+app.listen(8080, "0.0.0.0", () => {
+    console.log("Server running on port 8080");
 });
-
 
