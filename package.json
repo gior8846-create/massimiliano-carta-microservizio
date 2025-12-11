@@ -1,14 +1,15 @@
 {
   "name": "massimiliano-carta-microservizio",
   "version": "1.0.0",
-  "description": "Microservizio pubblico di esempio: Massimiliano_Carta_microservizio",
+  "description": "Massimiliano_Carta_microservizio - microservizio demo su OpenShift",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
+  "author": "Massimiliano Carta",
+  "license": "MIT",
   "dependencies": {
-    "express": "^4.19.2",
-    "uuid": "^9.0.1"
+    "express": "^4.19.2"
   }
 }
 
